@@ -1,2 +1,2 @@
-# ProjetoIntegradorI
-WebApp agenda de eventos
+# AgendaDeEventos
+Projeto Integrador I
